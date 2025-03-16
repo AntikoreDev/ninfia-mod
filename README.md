@@ -8,6 +8,6 @@ This mod adds a Sylveon joker that only appears in a new challenge named "Draini
 **Warning:** This mod is frustrating, and it swears and curses, so if you have problem with that, here be dragons!
 
 ## How to install 
-- Install [Steamodded](https://github.com/Steamodded/smods/wiki)
+- Install [Steamodded](https://github.com/Steamodded/smods/wiki) (tested on [1.0.0-beta-0312b](https://github.com/Steamodded/smods/releases/tag/1.0.0-beta-0312b), other versions are prone to not work)
 - Download the latest version of the [Source code](https://github.com/AntikoreDev/ninfia-mod/releases/) and put the mod folder into the Mods folder (files should be inside a folder, inside the `Mods` folder)
 - Start the game, and enjoy.
