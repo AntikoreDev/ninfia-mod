@@ -1,6 +1,5 @@
 # Ninfia Mod for Balatro
 <img align="right" src="https://res.antikore.dev/img/sylveonjoker.gif" alt="Sylveon Joker" width="200">
-
 So I have a friend that is a fan of sylveons, balatro and discovering how to do things with trial and error (and suffering), so I created this mod for him, joining all these things together (including suffering).
 
 This mod adds a Sylveon joker that only appears in a new challenge named "Draining Kiss". You have to discover every behaviour in order to find a good strategy to win the challenge.
