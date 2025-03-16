@@ -3,7 +3,7 @@
 
 So I have a friend that is a fan of sylveons, balatro and discovering how to do things with trial and error (and suffering), so I created this mod for him, joining all these things together (including suffering).
 
-This mod adds a Sylveon joker that only appears in a new challenge named "Draining Kiss". You have to discover every behaviour in order to find a good strategy to win the challenge.
+This mod adds a Sylveon joker that only appears in a new challenge named "Draining Kiss". What it does is unknown to you, and you will need to discover every behaviour it has in order to find a good strategy to win the challenge.
 
 Part of the fun is discovering the behaviours by playing and not by looking at the code (Cannot avoid you doing so!)
 
