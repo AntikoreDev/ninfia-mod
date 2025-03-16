@@ -1,5 +1,5 @@
 # Ninfia Mod for Balatro
-<img align="right" src="https://res.antikore.dev/img/test.gif" alt="Sylveon Joker" width="200">
+<img align="right" src="https://res.antikore.dev/img/sylveonjoker.gif" alt="Sylveon Joker" width="168">
 
 So I have a friend that is a fan of sylveons, balatro and discovering how to do things with trial and error (and suffering), so I created this mod for him, joining all these things together (including suffering).
 
