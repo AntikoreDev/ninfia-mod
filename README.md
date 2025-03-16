@@ -5,7 +5,7 @@ This mod adds a Sylveon joker that only appears in a new challenge named "Draini
 
 Part of the fun is discovering the behaviours by playing and not by looking at the code (Cannot avoid you doing so!)
 
-**Warning:** This mod is frustrating, swears and curses, so if you have problem with that, here be dragons!
+**Warning:** This mod is frustrating, and it swears and curses, so if you have problem with that, here be dragons!
 
 ## How to install
 - Install [Steamodded](https://github.com/Steamodded/smods/wiki)
