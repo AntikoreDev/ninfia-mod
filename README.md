@@ -9,5 +9,5 @@ Part of the fun is discovering the behaviours by playing and not by looking at t
 
 ## How to install
 - Install [Steamodded](https://github.com/Steamodded/smods/wiki)
-- Download source code and put the mod folder into the Mods folder (files should be inside a folder, inside the `Mods` folder)
+- Download the latest version of the [Source code](https://github.com/AntikoreDev/ninfia-mod/releases/) and put the mod folder into the Mods folder (files should be inside a folder, inside the `Mods` folder)
 - Start the game, and enjoy.
