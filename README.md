@@ -9,7 +9,7 @@ Part of the fun is discovering the behaviours by playing and not by looking at t
 
 **Warning:** This mod is frustrating, and it swears and curses, so if you have problem with that, here be dragons!
 
-## How to install
+## How to install 
 - Install [Steamodded](https://github.com/Steamodded/smods/wiki)
 - Download the latest version of the [Source code](https://github.com/AntikoreDev/ninfia-mod/releases/) and put the mod folder into the Mods folder (files should be inside a folder, inside the `Mods` folder)
 - Start the game, and enjoy.
